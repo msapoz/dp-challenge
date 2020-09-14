@@ -1,0 +1,23 @@
+{
+	"name": "d-challenge",
+	"version": "1.0.0",
+	"description": "Deputy Challenge",
+	"main": "dashboard.js",
+	"scripts": {
+		"test": "mocha --recursive"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/msapoz/d-challenge.git"
+	},
+	"author": "Mikhail Sapozhnikov",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/msapoz/d-challenge/issues"
+	},
+	"homepage": "https://github.com/msapoz/d-challenge#readme",
+	"dependencies": {
+		"chai": "^4.2.0",
+		"mocha": "^8.1.3"
+	}
+}
